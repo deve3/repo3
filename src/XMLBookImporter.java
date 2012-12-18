@@ -10,6 +10,7 @@ public class XMLBookImporter implements IBookImporter{
 		books.add(new Book("XML for every one"));
 		// implement the code here
 		System.out.println("Books imported from XML source ...");
+		System.out.println("personnal");
 		return books;
 	}
 
