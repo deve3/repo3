@@ -35,5 +35,9 @@ public class Book {
 	public void setSize(int size) {
 		this.size = size;
 	}
+
+	public getPrix(){
+		return 1000 * size;
+	}
 	
 }
